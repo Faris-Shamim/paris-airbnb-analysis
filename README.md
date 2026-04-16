@@ -2,11 +2,17 @@
 
 A data-driven project analyzing Airbnb listings in Paris to uncover pricing patterns, neighbourhood dynamics, and review trends — presented through clear visualizations and an interactive dashboard.
 
+## Project Overview
+This project analyzes Airbnb listing data in Paris to explore pricing patterns, neighbourhood trends, accommodation capacity, and review activity. It also includes a Streamlit dashboard for interactive exploration.
+
 ---
 
-## 🎯 Objective
-
-To analyze Airbnb listings in Paris and extract meaningful insights about pricing, accommodation types, and user activity across different neighbourhoods using data analysis and visualization techniques.
+## Objectives
+- Analyze Airbnb listings in Paris
+- Explore price differences across neighbourhoods
+- Study how accommodation size affects pricing
+- Visualize review trends and listing patterns
+- Present results in an interactive dashboard
 
 ---
 
