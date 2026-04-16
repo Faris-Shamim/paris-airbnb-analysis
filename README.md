@@ -95,7 +95,7 @@ The dataset contains Airbnb listings and reviews for Paris, including:
 1. Clone the repository:
 
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/Faris-Shamim/paris-airbnb-analysis.git
    cd paris-airbnb
    ```
 
