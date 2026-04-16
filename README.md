@@ -1,62 +1,19 @@
 # 🗼 Paris Airbnb Data Analysis & Interactive Dashboard
 
-A data-driven project analyzing Airbnb listings in Paris to uncover pricing patterns, neighbourhood dynamics, and review trends — presented through clear visualizations and an interactive dashboard.
+📌 End-to-end workflow: data cleaning, transformation, and interactive visualization
 
-## Project Overview
-This project analyzes Airbnb listing data in Paris to explore pricing patterns, neighbourhood trends, accommodation capacity, and review activity. It also includes a Streamlit dashboard for interactive exploration.
+## 📊 Overview
+This project analyzes Airbnb listings in Paris to uncover key pricing patterns, neighbourhood dynamics, and market trends.
 
----
-
-## Objectives
-- Analyze Airbnb listings in Paris
-- Explore price differences across neighbourhoods
-- Study how accommodation size affects pricing
-- Visualize review trends and listing patterns
-- Present results in an interactive dashboard
+Built using **Python (Pandas, Matplotlib)** and deployed as an **interactive Streamlit dashboard** for exploration.
 
 ---
 
-## 🚀 Key Insights
-
-* Central Paris neighbourhoods command significantly higher average prices compared to outer districts
-* Entire homes/apartments dominate the premium pricing segment
-* Review activity is heavily concentrated in tourist-dense areas
-* Host activity has grown steadily over time, indicating platform expansion
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard](outputs/dashboard.png)
-
-### 📍 Neighbourhood Pricing
-![Neighbourhood](outputs/neighbourhood.png)
-
-### 📈 Trends Over Time
-![Trends](outputs/trends.png)
-
-### ⭐ Review Activity
-![Reviews](outputs/reviews.png)
-
----
-
-## 🧩 Features
-
-* **Neighbourhood Pricing Analysis**
-  Compare average listing prices across Paris neighbourhoods
-
-* **Accommodation Insights**
-  Analyze how property size and type influence pricing
-
-* **Temporal Trends**
-  Track host growth and pricing changes over time
-
-* **Review Analytics**
-  Explore review patterns, most active listings, and engagement by area
-
-* **Interactive Dashboard**
-  Interactive dashboard built with Streamlit for exploring key insights
-
+## 🔍 What This Project Demonstrates
+- Cleaning and transforming real-world datasets  
+- Performing exploratory data analysis (EDA) to uncover patterns  
+- Communicating insights through clear visualizations  
+- Building an interactive dashboard using Streamlit  
 ---
 
 ## 🏗️ Project Structure
@@ -74,6 +31,41 @@ paris-airbnb/
 ├── requirements.txt
 └── .gitignore
 ```
+---
+## 🎯 Objectives
+- Analyze pricing differences across neighbourhoods  
+- Understand how property size affects price  
+- Explore trends in reviews and listings  
+---
+
+## 🚀 Key Insights
+
+- Central Paris listings command significantly higher prices → strong location premium  
+- Entire homes dominate the high-price segment → preference for privacy in premium market  
+- Reviews are concentrated in tourist-heavy areas → key demand zones  
+- Host activity has increased over time → rising competition in the market 
+
+---
+
+## 📊 Dashboard Preview
+
+### 📍 Neighbourhood Pricing
+![Neighbourhood](outputs/neighbourhood.png)
+
+### 📈 Trends Over Time
+![Trends](outputs/trends.png)
+
+### ⭐ Review Activity
+![Reviews](outputs/reviews.png)
+
+---
+
+## 🧩 Features
+- Neighbourhood price comparison  
+- Accommodation type analysis  
+- Temporal trends in pricing and host activity  
+- Review pattern analysis  
+- Interactive Streamlit dashboard  
 
 ---
 
@@ -129,6 +121,3 @@ The dataset contains Airbnb listings and reviews for Paris, including:
 
 ---
 
-## 📌 About This Project
-
-This project is part of a growing portfolio focused on data analysis, cloud technologies, and building practical, real-world solutions at the intersection of business and technology.
