@@ -115,9 +115,9 @@ The dataset contains Airbnb listings and reviews for Paris, including:
 
 ## 🔮 Future Improvements
 
-* Build a machine learning model to predict listing prices
-* Expand analysis to multiple cities
-* Deploy the dashboard for public access
+- Price prediction model (Ridge regression or XGBoost baseline)
+- Expand to other European cities for comparison
+- Deploy dashboard publicly via Streamlit Community Cloud
 
 ---
 
