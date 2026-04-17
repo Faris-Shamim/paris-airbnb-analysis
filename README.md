@@ -1,5 +1,9 @@
 # 🗼 Paris Airbnb Data Analysis & Interactive Dashboard
 
+## 🔗 Live Demo
+[Open Dashboard](https://paris-airbnb-analysis.streamlit.app/)
+
+
 📌 End-to-end workflow: data cleaning, transformation, and interactive visualization
 
 ## 📊 Overview
