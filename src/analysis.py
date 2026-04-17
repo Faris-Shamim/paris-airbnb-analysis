@@ -2,7 +2,7 @@ import pandas as pd
 
 def load_data():
     try:
-        df = pd.read_csv("data/Listings.csv", encoding="ISO-8859-1", low_memory=False)
+        df = pd.read_csv("data/listings_small.csv", encoding="ISO-8859-1", low_memory=False)
         return df
     except FileNotFoundError:
         raise FileNotFoundError("Could not find 'data/Listings.csv'. Check your file path.")
