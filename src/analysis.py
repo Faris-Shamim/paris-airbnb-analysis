@@ -9,7 +9,7 @@ def load_data():
 
 def load_reviews():
     try:
-        df = pd.read_csv("data/Reviews.csv", encoding="ISO-8859-1", low_memory=False)
+        df = pd.read_csv("data/reviews_small.csv", encoding="ISO-8859-1", low_memory=False)
         return df
     except FileNotFoundError:
         raise FileNotFoundError("Could not find 'data/Reviews.csv'. Check your file path.")
